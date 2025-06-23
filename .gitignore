@@ -1,0 +1,22 @@
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Environments
+venv/
+.env/
+
+# Caching
+.pytest_cache/
+.mypy_cache/
+
+# Specific to Windows OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Specific to macOS
+.DS_Store
+
+# Custom files
+config.py
